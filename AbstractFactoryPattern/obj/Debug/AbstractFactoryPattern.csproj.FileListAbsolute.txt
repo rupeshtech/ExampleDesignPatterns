@@ -10,3 +10,6 @@ C:\Users\test\Documents\visual studio 2017\Projects\Example_FactoryPattern_AFP\A
 C:\Users\test\Documents\Visual Studio 2015\Projects\ExampleDesignPatterns\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe.config
 C:\Users\test\Documents\Visual Studio 2015\Projects\ExampleDesignPatterns\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.exe
 C:\Users\test\Documents\Visual Studio 2015\Projects\ExampleDesignPatterns\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.pdb
+C:\Users\test\Google Drive\GitHub\ExampleDesignPatterns\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe.config
+C:\Users\test\Google Drive\GitHub\ExampleDesignPatterns\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.exe
+C:\Users\test\Google Drive\GitHub\ExampleDesignPatterns\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.pdb

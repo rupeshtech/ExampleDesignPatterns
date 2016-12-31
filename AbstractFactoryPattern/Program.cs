@@ -15,7 +15,7 @@ namespace AbstractFactoryPattern
 
             //Create Car Factory
             var carFactory = factoryCreator.CreateFactory("Car");
-            Console.WriteLine($"Factory Created is {carFactory.GetType().Name}");
+            Console.WriteLine($"Created facory is {carFactory.GetType().Name}");
             var carCreator = carFactory.CreateVehicleCreator();
 
             // Assemble Mercedes
