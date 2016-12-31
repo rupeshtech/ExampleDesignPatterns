@@ -1,0 +1,6 @@
+C:\Users\test\Google Drive\GitHub\ExampleDesignPatterns\FacadeDesignPattern\bin\Debug\FacadeDesignPattern.exe.config
+C:\Users\test\Google Drive\GitHub\ExampleDesignPatterns\FacadeDesignPattern\bin\Debug\FacadeDesignPattern.exe
+C:\Users\test\Google Drive\GitHub\ExampleDesignPatterns\FacadeDesignPattern\bin\Debug\FacadeDesignPattern.pdb
+C:\Users\test\Google Drive\GitHub\ExampleDesignPatterns\FacadeDesignPattern\obj\Debug\FacadeDesignPattern.csprojResolveAssemblyReference.cache
+C:\Users\test\Google Drive\GitHub\ExampleDesignPatterns\FacadeDesignPattern\obj\Debug\FacadeDesignPattern.exe
+C:\Users\test\Google Drive\GitHub\ExampleDesignPatterns\FacadeDesignPattern\obj\Debug\FacadeDesignPattern.pdb
