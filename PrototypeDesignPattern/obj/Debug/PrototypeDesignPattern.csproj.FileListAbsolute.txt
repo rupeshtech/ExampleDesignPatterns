@@ -1,0 +1,6 @@
+C:\Users\test\Google Drive\GitHub\ExampleDesignPatterns\PrototypeDesignPattern\bin\Debug\PrototypeDesignPattern.exe.config
+C:\Users\test\Google Drive\GitHub\ExampleDesignPatterns\PrototypeDesignPattern\bin\Debug\PrototypeDesignPattern.exe
+C:\Users\test\Google Drive\GitHub\ExampleDesignPatterns\PrototypeDesignPattern\bin\Debug\PrototypeDesignPattern.pdb
+C:\Users\test\Google Drive\GitHub\ExampleDesignPatterns\PrototypeDesignPattern\obj\Debug\PrototypeDesignPattern.csprojResolveAssemblyReference.cache
+C:\Users\test\Google Drive\GitHub\ExampleDesignPatterns\PrototypeDesignPattern\obj\Debug\PrototypeDesignPattern.exe
+C:\Users\test\Google Drive\GitHub\ExampleDesignPatterns\PrototypeDesignPattern\obj\Debug\PrototypeDesignPattern.pdb
