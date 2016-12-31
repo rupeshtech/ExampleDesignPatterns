@@ -1,0 +1,12 @@
+C:\Users\test\documents\visual studio 2017\Projects\ConsoleApp6\FactoryPattern\obj\Debug\FactoryPattern.csprojResolveAssemblyReference.cache
+C:\Users\test\documents\visual studio 2017\Projects\ConsoleApp6\FactoryPattern\bin\Debug\FactoryPattern.exe.config
+C:\Users\test\documents\visual studio 2017\Projects\ConsoleApp6\FactoryPattern\bin\Debug\FactoryPattern.exe
+C:\Users\test\documents\visual studio 2017\Projects\ConsoleApp6\FactoryPattern\bin\Debug\FactoryPattern.pdb
+C:\Users\test\documents\visual studio 2017\Projects\ConsoleApp6\FactoryPattern\obj\Debug\FactoryPattern.exe
+C:\Users\test\documents\visual studio 2017\Projects\ConsoleApp6\FactoryPattern\obj\Debug\FactoryPattern.pdb
+C:\Users\test\Documents\visual studio 2017\Projects\Example_FactoryPattern_AFP\FactoryPattern\bin\Debug\FactoryPattern.exe.config
+C:\Users\test\Documents\visual studio 2017\Projects\Example_FactoryPattern_AFP\FactoryPattern\obj\Debug\FactoryPattern.exe
+C:\Users\test\Documents\visual studio 2017\Projects\Example_FactoryPattern_AFP\FactoryPattern\obj\Debug\FactoryPattern.pdb
+C:\Users\test\Documents\Visual Studio 2015\Projects\ExampleDesignPatterns\FactoryPattern\bin\Debug\FactoryPattern.exe.config
+C:\Users\test\Documents\Visual Studio 2015\Projects\ExampleDesignPatterns\FactoryPattern\obj\Debug\FactoryPattern.exe
+C:\Users\test\Documents\Visual Studio 2015\Projects\ExampleDesignPatterns\FactoryPattern\obj\Debug\FactoryPattern.pdb
