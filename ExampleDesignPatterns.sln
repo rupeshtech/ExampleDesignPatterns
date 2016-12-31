@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryPattern", "FactoryPa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactoryPattern", "AbstractFactoryPattern\AbstractFactoryPattern.csproj", "{8CE706D5-6947-4BD6-B5EB-E324210951E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingeltonDesignPattern", "SingeltonDesignPattern\SingeltonDesignPattern.csproj", "{BEEDD211-4364-491E-BFAB-2B8728AA6512}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuillderDesignPattern", "BuillderDesignPattern\BuillderDesignPattern.csproj", "{A5C54C9F-7EF1-4131-8E9F-30189FD6C06D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{8CE706D5-6947-4BD6-B5EB-E324210951E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CE706D5-6947-4BD6-B5EB-E324210951E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CE706D5-6947-4BD6-B5EB-E324210951E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEEDD211-4364-491E-BFAB-2B8728AA6512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEEDD211-4364-491E-BFAB-2B8728AA6512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEEDD211-4364-491E-BFAB-2B8728AA6512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEEDD211-4364-491E-BFAB-2B8728AA6512}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5C54C9F-7EF1-4131-8E9F-30189FD6C06D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5C54C9F-7EF1-4131-8E9F-30189FD6C06D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5C54C9F-7EF1-4131-8E9F-30189FD6C06D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5C54C9F-7EF1-4131-8E9F-30189FD6C06D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -34,5 +46,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{683FD9CD-8B9A-483C-80CE-34BBEA548519} = {D7F1D425-7C40-4C4C-9AE4-84A3E43C92E6}
 		{8CE706D5-6947-4BD6-B5EB-E324210951E4} = {D7F1D425-7C40-4C4C-9AE4-84A3E43C92E6}
+		{BEEDD211-4364-491E-BFAB-2B8728AA6512} = {D7F1D425-7C40-4C4C-9AE4-84A3E43C92E6}
+		{A5C54C9F-7EF1-4131-8E9F-30189FD6C06D} = {D7F1D425-7C40-4C4C-9AE4-84A3E43C92E6}
 	EndGlobalSection
 EndGlobal

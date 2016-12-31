@@ -13,3 +13,6 @@ C:\Users\test\Documents\Visual Studio 2015\Projects\ExampleDesignPatterns\Abstra
 C:\Users\test\Google Drive\GitHub\ExampleDesignPatterns\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe.config
 C:\Users\test\Google Drive\GitHub\ExampleDesignPatterns\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.exe
 C:\Users\test\Google Drive\GitHub\ExampleDesignPatterns\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.pdb
+C:\Users\test\Google Drive\GitHub\ExampleDesignPatterns\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe
+C:\Users\test\Google Drive\GitHub\ExampleDesignPatterns\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.pdb
+C:\Users\test\Google Drive\GitHub\ExampleDesignPatterns\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.csprojResolveAssemblyReference.cache

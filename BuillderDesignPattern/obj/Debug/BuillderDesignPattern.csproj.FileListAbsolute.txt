@@ -1,0 +1,5 @@
+C:\Users\test\Google Drive\GitHub\ExampleDesignPatterns\BuillderDesignPattern\bin\Debug\BuillderDesignPattern.exe.config
+C:\Users\test\Google Drive\GitHub\ExampleDesignPatterns\BuillderDesignPattern\bin\Debug\BuillderDesignPattern.exe
+C:\Users\test\Google Drive\GitHub\ExampleDesignPatterns\BuillderDesignPattern\bin\Debug\BuillderDesignPattern.pdb
+C:\Users\test\Google Drive\GitHub\ExampleDesignPatterns\BuillderDesignPattern\obj\Debug\BuillderDesignPattern.exe
+C:\Users\test\Google Drive\GitHub\ExampleDesignPatterns\BuillderDesignPattern\obj\Debug\BuillderDesignPattern.pdb
